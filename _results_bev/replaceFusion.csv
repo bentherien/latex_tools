@@ -1,0 +1,6 @@
+Id,Creation Time,Owner,Monitoring Time,val/pts_bbox/KITTI/Car_BEV_easy_strict (last),val/pts_bbox/KITTI/Car_BEV_moderate_strict (last),val/pts_bbox/KITTI/Car_BEV_hard_strict (last),val/pts_bbox/KITTI/Overall_BEV_easy (last),val/pts_bbox/KITTI/Overall_BEV_moderate (last),val/pts_bbox/KITTI/Overall_BEV_hard (last),val/pts_bbox/KITTI/Pedestrian_BEV_easy_strict (last),val/pts_bbox/KITTI/Pedestrian_BEV_hard_strict (last),val/pts_bbox/KITTI/Pedestrian_BEV_moderate_strict (last),val/pts_bbox/KITTI/Cyclist_BEV_easy_strict (last),val/pts_bbox/KITTI/Cyclist_BEV_hard_strict (last),val/pts_bbox/KITTI/Cyclist_BEV_moderate_strict (last)
+REP-10,2022-04-06 18:41:03,bentherien,21004,89.4788,85.9279,84.3024,77.2876,68.6017,65.9849,69.9757,60.1892,62.7314,72.4085,53.4631,57.1457
+REP-9,2022-04-06 12:51:06,bentherien,20950,89.2957,85.5326,84.3119,77.0882,68.7932,66.4929,69.5431,60.393,62.4809,72.4259,54.7739,58.366
+REP-8,2022-04-06 05:18:48,bentherien,21045,87.9875,85.2843,84.1104,77.1888,70.1548,66.83,70.8736,61.2119,66.0752,72.7054,55.1677,59.1048
+REP-7,2022-04-05 23:26:49,bentherien,21077,89.0389,84.5381,84.6888,77.676,69.0478,67.6884,69.3476,60.2072,62.5795,74.6414,58.1691,60.0257
+REP-6,2022-04-05 17:35:43,bentherien,21025,88.9706,86.1757,84.3879,77.2991,68.126,65.8566,69.7636,59.2369,62.3323,73.1632,53.945,55.8701

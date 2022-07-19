@@ -1,0 +1,6 @@
+Id,Creation Time,Owner,Monitoring Time,Tags,val/pts_bbox/KITTI/Car_3D_easy_strict (last),val/pts_bbox/KITTI/Car_3D_hard_strict (last),val/pts_bbox/KITTI/Car_3D_moderate_strict (last),val/pts_bbox/KITTI/Pedestrian_3D_easy_strict (last),val/pts_bbox/KITTI/Pedestrian_3D_hard_strict (last),val/pts_bbox/KITTI/Pedestrian_3D_moderate_strict (last),val/pts_bbox/KITTI/Cyclist_3D_easy_strict (last),val/pts_bbox/KITTI/Cyclist_3D_hard_strict (last),val/pts_bbox/KITTI/Cyclist_3D_moderate_strict (last),val/pts_bbox/KITTI/Overall_3D_easy (last),val/pts_bbox/KITTI/Overall_3D_hard (last),val/pts_bbox/KITTI/Overall_3D_moderate (last)
+REP-10,2022-04-06 18:41:03,bentherien,21004,[],87.5669,73.6112,76.9234,62.0723,52.4908,57.8882,70.8509,52.1487,55.7295,73.4967,59.4169,63.5137
+REP-9,2022-04-06 12:51:06,bentherien,20950,[],87.2822,73.6162,76.6516,64.1399,53.1808,57.7369,69.3554,52.06,54.1324,73.5925,59.619,62.8403
+REP-8,2022-04-06 05:18:48,bentherien,21045,[],85.9183,73.3961,75.9431,65.3334,56.0708,59.1263,72.116,53.7276,58.2929,74.4559,61.0648,64.4541
+REP-7,2022-04-05 23:26:49,bentherien,21077,[],86.919,74.0381,76.4642,61.8032,53.2077,57.4012,71.4765,52.8722,54.6923,73.3996,60.0393,62.8526
+REP-6,2022-04-05 17:35:43,bentherien,21025,[],86.8599,74.4271,76.6222,62.2317,52.4487,56.8482,71.003,52.1893,54.3913,73.3648,59.6884,62.6206
